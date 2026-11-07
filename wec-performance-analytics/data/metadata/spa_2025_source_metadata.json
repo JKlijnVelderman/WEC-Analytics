@@ -1,0 +1,27 @@
+{
+    "source": "OpenWEC",
+    "series": "WEC",
+    "season": 2025,
+    "event": "Spa",
+    "session": "Race",
+    "retrieved_at_utc": "2026-11-07T21:23:37.311973+00:00",
+    "record_count": 36,
+    "columns": [
+        "position",
+        "car_number",
+        "car_class",
+        "vehicle",
+        "team",
+        "tyre_supplier",
+        "status",
+        "laps_completed",
+        "total_time_s",
+        "gap_to_first_s",
+        "fl_lap_number",
+        "fl_time_s",
+        "fl_kph",
+        "drivers"
+    ],
+    "api_key_configured": true,
+    "validation_status": "passed"
+}

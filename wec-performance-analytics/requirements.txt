@@ -1,0 +1,8 @@
+openwec==0.2.2
+pandas
+numpy
+plotly
+streamlit
+python-dotenv
+pyarrow
+pytest
